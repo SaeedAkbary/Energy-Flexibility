@@ -1,4 +1,4 @@
-# Energy-Flexibility
+# Energy Flexibility
 🔌 Smart House Energy Flexibility Analysis
 This project introduces a novel methodology for evaluating the energy flexibility of residential consumers under varying operational conditions, with a focus on smart homes. It proposes innovative flexibility indicators that quantify the potential of residential energy systems to support grid stability and economic efficiency.
 
